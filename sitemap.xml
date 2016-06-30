@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://easthudsonmedia.com/</loc>
+  <lastmod>2015-09-03T18:26:04+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://easthudsonmedia.com/index.html</loc>
+  <lastmod>2015-09-03T18:26:04+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://easthudsonmedia.com/about.html</loc>
+  <lastmod>2015-09-03T18:25:39+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://easthudsonmedia.com/video.html</loc>
+  <lastmod>2015-09-03T18:26:30+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://easthudsonmedia.com/photo.html</loc>
+  <lastmod>2015-09-03T18:26:13+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://easthudsonmedia.com/web.html</loc>
+  <lastmod>2015-09-03T18:27:16+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://easthudsonmedia.com/portfolio.html</loc>
+  <lastmod>2015-09-03T18:26:22+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+<url>
+  <loc>http://easthudsonmedia.com/contact.html</loc>
+  <lastmod>2015-09-03T18:25:52+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+</urlset>
