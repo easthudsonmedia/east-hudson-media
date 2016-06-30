@@ -154,3 +154,9 @@
 .navbar-collapse {
 	padding-right: 15%;
 }
+
+@media (max-width: 968px) {
+  .navbar-brand img {
+    margin-left: 130%;
+  }
+}
